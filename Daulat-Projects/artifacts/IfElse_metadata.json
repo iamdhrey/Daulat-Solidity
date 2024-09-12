@@ -1,0 +1,78 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myString",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_num",
+						"type": "uint256"
+					}
+				],
+				"name": "shortHand",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Daulat-Projects/IfElse_statement.sol": "IfElse"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Daulat-Projects/IfElse_statement.sol": {
+			"keccak256": "0x23a1076f4cd12a31b2e82d603192d686ecae6502680cba2a47ab1ee6b276637d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0a3f3f2bceb4081f98118e465fcbcb6eb29d24cb4638bea0da9382836a606e91",
+				"dweb:/ipfs/QmVAzLNyS8schhJJaX6SaFqt9MFfnGAxkhwURXELSeHbHi"
+			]
+		}
+	},
+	"version": 1
+}

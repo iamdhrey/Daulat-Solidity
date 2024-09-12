@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "todos",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "text",
+						"type": "string"
+					},
+					{
+						"internalType": "bool",
+						"name": "completed",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Daulat-Projects/Import_Structs.sol": "Todos"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Daulat-Projects/Import_Structs.sol": {
+			"keccak256": "0x0edcb35f6926283e83f65ddc9f9e5df44157d981bea2552d9a0d8a3508cbad1f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://09b8d96d09c7f4c1c63615beb78b210b0df009c722ab522b8848f14932fa113f",
+				"dweb:/ipfs/QmS1AVWok8jNGx9w3McSJFH9XQtJSQPXwtH1t2L11jWD4R"
+			]
+		}
+	},
+	"version": 1
+}

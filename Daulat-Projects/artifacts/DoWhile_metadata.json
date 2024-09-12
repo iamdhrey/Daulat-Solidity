@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "loop",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Daulat-Projects/DoWhileLoop.sol": "DoWhile"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Daulat-Projects/DoWhileLoop.sol": {
+			"keccak256": "0x50916a3e4b80044597c32810545d4aff0b50016a0be6e45d00941ec90bb1fc97",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://890eb048fe4068e4437494f8e7fac36dfafbbfa41cfc458210ac34f27cd01e0a",
+				"dweb:/ipfs/QmXU4aYrz9iFTUWqZRRbYtdVcLrx5GdAKryeW7eX51LV82"
+			]
+		}
+	},
+	"version": 1
+}

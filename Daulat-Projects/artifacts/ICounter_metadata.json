@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "count",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "increment",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Daulat-Projects/Interface.sol": "ICounter"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Daulat-Projects/Interface.sol": {
+			"keccak256": "0xc81e1e7bcb512cf8e8d6ec8688304dd3a5cfb37d1e09e629e3445c64615b74e9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c6f706a33bd7a6f864df807f47b14e6e296b93846fccdc0bbf0c5fc8df84fb4d",
+				"dweb:/ipfs/QmPuSNQuYgUM5NoFVfbUCxPuyjELPfsTsN7PFkQjGK76dB"
+			]
+		}
+	},
+	"version": 1
+}

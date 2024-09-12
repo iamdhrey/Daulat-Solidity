@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "foo",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Daulat-Projects/Inheritance.sol": "B"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Daulat-Projects/Inheritance.sol": {
+			"keccak256": "0x5826d2d483e43ed515d9363e5de3da55339b3c80df8f8ac0a0e2181a52cc67d7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a30915787c0d724c231b529f0c8d9d2aa7928cf2f0e2bd751be629ee8d019ca0",
+				"dweb:/ipfs/Qmd88e1C4Cf5Hehv3pjvXtLKFiyfFB8KscMSqsLU3jiKXw"
+			]
+		}
+	},
+	"version": 1
+}

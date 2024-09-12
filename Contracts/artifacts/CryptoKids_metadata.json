@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contracts/CryptoKids.sol": "CryptoKids"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contracts/CryptoKids.sol": {
+			"keccak256": "0xdd6b4974ab7d38ef7faa479a57bad51acada8100161001e8a55df079e878d8cd",
+			"urls": [
+				"bzz-raw://a21ebd9871908480a2116620142acb1ec349739391718f026806756d42eace0a",
+				"dweb:/ipfs/QmPRJPyQ4xEHaVDEh2NYQPWfY1L7mMGf6CG5Ns15cP7BSS"
+			]
+		}
+	},
+	"version": 1
+}

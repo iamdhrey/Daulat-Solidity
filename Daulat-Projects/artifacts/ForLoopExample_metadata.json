@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "loop",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Daulat-Projects/ForLoop.sol": "ForLoopExample"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Daulat-Projects/ForLoop.sol": {
+			"keccak256": "0xe6d273fa6a4cb917965537141452687639f2912d17fb504ec7208c03f41a0f90",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1bc35c9ec30cfdfaf3e8d2a1ba1836e923b52258093e3037d2de019e63e66001",
+				"dweb:/ipfs/QmcVH91ovQVwQg458Yu5EYfXz4QgjDP985pAM5bCX8jTjY"
+			]
+		}
+	},
+	"version": 1
+}

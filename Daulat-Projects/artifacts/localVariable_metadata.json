@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Daulat-Projects/LocalVariable.sol": "localVariable"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Daulat-Projects/LocalVariable.sol": {
+			"keccak256": "0x8d7a34d3a4fa873c23d13f5965877da001ebb74d23078e0e5abe85a492d1f02e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://52ab2cb320ed64e9c8f76a983cf7c71a711a858510331dc07bc241a138a27c1b",
+				"dweb:/ipfs/QmXNHix4VhAuSp2Sx1NvEHVvQ7gZnJKqhHaGRmJpTef6kN"
+			]
+		}
+	},
+	"version": 1
+}
